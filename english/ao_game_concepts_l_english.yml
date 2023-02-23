@@ -1,14 +1,17 @@
 ﻿l_english:
- game_concept_adopt:0 "Adopt"
+ #養子
+ #game_concept_adopt:0 "Adopt"
+ game_concept_adopt:0 "養子"
+ #game_concept_adopt_desc:1 "When a character adopts another character, the adoptee becomes the child of the adopter and their primary [spouse|E]. In addition, if the adoptee is a different [house|E] than the adopter they, and any children of their [house|E] they have, become part of the adopter's [house|E].\n\n[adult|E] characters can only adopt younger characters who have no grandchildren or [adult|E] children not of your [house|E].  More resrictions can apply depending on the adoption [doctrines|E] of a character's [faith|E]. If a character's [culture|E] has a [tradition|E] that enables adoptions, then the [tradition|E] overrules the [faithpossessive|E] [doctrine|E] where it is more lax.\n\nCharacters can only adopt their own children if they and their [spouse|E] are adopting the child of a [concubine|E]."
  game_concept_adopt_desc:1 "When a character adopts another character, the adoptee becomes the child of the adopter and their primary [spouse|E]. In addition, if the adoptee is a different [house|E] than the adopter they, and any children of their [house|E] they have, become part of the adopter's [house|E].\n\n[adult|E] characters can only adopt younger characters who have no grandchildren or [adult|E] children not of your [house|E].  More resrictions can apply depending on the adoption [doctrines|E] of a character's [faith|E]. If a character's [culture|E] has a [tradition|E] that enables adoptions, then the [tradition|E] overrules the [faithpossessive|E] [doctrine|E] where it is more lax.\n\nCharacters can only adopt their own children if they and their [spouse|E] are adopting the child of a [concubine|E]."
- game_concept_displace:0 "Displace"
- game_concept_displaced:0 "Displaced"
- game_concept_displace_desc:1 "A [proper_heir|E] would be displaced if the character being adopted would end up higher in the [line_of_succession|E] than the current [proper_heir|E]. This is taking into account the realm's [succession_law|E] and its interactions with [heir|E] desigantion, age, gender, or any [traits|E]"
- game_concept_proper_heir:0 "Proper Heir"
+ #養子縁組による王位継承順位の変化について
+ game_concept_displace:0 "退位"
+ game_concept_displaced:0 "退位させたれた"
+ game_concept_displace_desc:1 "AAA [proper_heir|E] would be displaced if the character being adopted would end up higher in the [line_of_succession|E] than the current [proper_heir|E]. This is taking into account the realm's [succession_law|E] and its interactions with [heir|E] desigantion, age, gender, or any [traits|E]"
+ game_concept_proper_heir:0 "正当な相続人"
  game_concept_proper_heir_desc:1 "The $game_concept_proper_heir$ of a [ruler|E] is the first of the [primary_heir|E], [player_heir|E], any [heir|E], or any child/grandchild that meets the following criteria:\n$EFFECT_LIST_BULLET$Is a descendant of the ruler\n$EFFECT_LIST_BULLET$Is the ruler's [preferred_gender|E]\n$EFFECT_LIST_BULLET$If not the ruler's [primary_heir|E] or [player_heir|E], they are the highest descendant in the [line_of_succession|E] based on the ruler's [succession_law|E]"
- game_concept_preferred_gender:0 "Preferred Gender"
+ game_concept_preferred_gender:0 "優先性別"
  game_concept_preferred_gender_desc:1 "The $game_concept_preferred_gender$ is the one favored by the realm's gender [succession_law|E].  If the gender [succession_law|E] is $equal_law$ then there is no $game_concept_preferred_gender$ and this requirement is ignored when adopting."
- game_concept_orphans:0 "Orphans"
+ game_concept_orphans:0 "孤児"
  game_concept_orphans_desc:1 "[children|E] without any living parents."
- 
  ao_adopted_orphan_hook:0 "Adopted Orphan"

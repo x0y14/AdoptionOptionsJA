@@ -1,14 +1,20 @@
 ﻿l_english:
- tradition_ao_roman_legacy_name:0 "Roman Legacy"
+ #tradition_ao_roman_legacy_name:0 "Roman Legacy"
+ tradition_ao_roman_legacy_name:0 "ローマの遺産"
  tradition_ao_roman_legacy_desc:1 "The military and social organization of the Roman Empire is still in living memory within this culture. A professional army is favored over levied troops and adoption is a valid option to solve the lack of an heir."
+
  tradition_ao_african_fosterage_name:0 "African Fosterage"
  tradition_ao_african_fosterage_desc:1 "The burden of raising children does not need to fall on those who birthed them in this culture. Instead children can be raised by others to the benifit of the children and those who were not directly blessed with them."
+
  tradition_ao_ritual_succession_name:0 "Ritual Succession"
  tradition_ao_ritual_succession_desc:1 "Lineage is very important to this culture, to the point where ancestors have become mythical and legendary beings with many who claim to be their descendants.  Thus the line of descendants must be preserved, either by birth or adoption."
+
  tradition_ao_restricted_adoption_name:0 "Restricted Adoptions"
  tradition_ao_restricted_adoption_desc:1 "A limited level of adoption help those in need find new families."
+
  tradition_ao_expanded_adoption_name:0 "Expanded Adoptions"
  tradition_ao_expanded_adoption_desc:1 "A broad range of allowed adoption means that each family can expand their family as they see fit."
+
 
  culture_parameter_ao_adoption_lowborn:0 "Can [adopt|E] can adopt [lowborn|E] characters, [dynasty_members|E], or [family|E] members" 
  culture_parameter_ao_adoption_ignores_dynasty:0 "Can [adopt|E] regardless of [dynasty|E]"
@@ -25,6 +31,7 @@
  culture_parameter_ao_fosterage_improves_education:0 "[children|E] educated by a [guardian|E] who is not a [close_family_member|E] will gain additional [skills|E] based on the education [trait|E] of their [guardian|E]"
  culture_parameter_ao_heir_fosterage_gives_alliance:0 "Having your [heir|E] educated by another [ruler|E] gives an [alliance|E]"
  
+
  any_ancestor_culture_had_ritual_succession:1 "At least one ancestor culture must have the $tradition_ao_ritual_succession_name$ [tradition|E]."
  cannot_have_tradition_roman_legacy:0 "$cannot_combine_tradition_trigger_desc$ #high $tradition_roman_legacy_name$#!"
  cannot_have_tradition_ao_roman_legacy:0 "$cannot_combine_tradition_trigger_desc$ #high $tradition_ao_roman_legacy_name$#!"
@@ -34,6 +41,8 @@
  cannot_have_tradition_ao_restricted_adoption:0 "$cannot_combine_tradition_trigger_desc$ #high $tradition_ao_restricted_adoption_name$#!"
  cannot_have_tradition_ao_expanded_adoption:0 "$cannot_combine_tradition_trigger_desc$ #high $tradition_ao_expanded_adoption_name$#!"
  
+ 
  ao_adoption_events.1001.message:0 "$tradition_ao_african_fosterage_name$"
+ 
  
  culture_in_ao_roman_empire_desc:0 ":0 "The [culture|E] does not have #V 50#! of its [counties|E] in [GetGeographicalRegion('custom_roman_empire').GetName]"
