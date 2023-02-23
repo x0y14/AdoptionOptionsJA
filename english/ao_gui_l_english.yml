@@ -1,0 +1,6 @@
+﻿l_english:
+ MAIN_MOTHER:0 "Main Mother"
+ ADOPTIVE_MOTHER:0 "2nd Mother"
+ MAIN_FATHER:0 "Main Father"
+ ADOPTIVE_FATHER:0 "2nd Father"
+ CV_ADOPTED_CHILDREN_HEADING:0 "Children #weak ([GetDataModelSize(CharacterWindow.GetRelationsOfType( GetRelation( 'ao_adopted_child' ) ))])#!"

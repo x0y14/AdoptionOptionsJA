@@ -1,0 +1,12 @@
+﻿l_english:
+ # Fame Groups
+ trait_adopted:0 "Adopted"
+ trait_adopted_familial:0 "Adopted Family Member"
+ trait_adopted_familial_desc:0 "This character was adopted from within the extended family."
+ trait_adopted_familial_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] was adopted from within the same family."
+ trait_adopted_highborn:0 "Adopted Highborn"
+ trait_adopted_highborn_desc:0 "This character was adopted from another noble family."
+ trait_adopted_highborn_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] was adopted from another noble family."
+ trait_adopted_lowborn:0 "Adopted Lowborn"
+ trait_adopted_lowborn_desc:0 "This character was adopted from a lowborn family."
+ trait_adopted_lowborn_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] was adopted from a lowborn family."

@@ -1,0 +1,8 @@
+﻿l_english:
+ #Scripted relations
+ ao_adopted_child:1 "Child"
+ ao_adopted_child_mother:1 "Child"
+ ao_adopted_child_father:1 "Child"
+ ao_adoptive_parent:1 "Parent"
+ ao_adoptive_parent_mother:1 "Mother"
+ ao_adoptive_parent_father:1 "Father"

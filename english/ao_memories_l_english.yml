@@ -1,0 +1,14 @@
+﻿l_english:
+ ao_adopted_child:0 "adopted a child"
+ ao_adopted_by_parents:0 "adopted by parents"
+ ao_adopted_by_parent:0 "adopted by parent"
+ #Descs
+ ao_adopted_child_desc_1:1 "I adopted my [adopted_child.Custom('GetDaughterSon')] [adopted_child.GetFirstName]"
+ ao_adopted_child_desc_second_perspective_1:1 "you adopted your [adopted_child.Custom('GetDaughterSon')] [child.GetFirstName]"
+ ao_adopted_child_desc_third_perspective_1:1 "[owner.GetName] adopted [owner.GetHerHis] [adopted_child.Custom('GetDaughterSon')] [adopted_child.GetFirstName]"
+ ao_adopted_by_parents_desc_1:1 "I was adopted by my parents [adoptive_parent.GetFirstName] and [adoptive_parent_2.GetFirstName]"
+ ao_adopted_by_parents_desc_second_perspective_1:1 "you were adopted by your parents [adoptive_parent.GetFirstName] and [adoptive_parent_2.GetFirstName]"
+ ao_adopted_by_parents_desc_third_perspective_1:1 "[owner.GetName] was adopted by [owner.GetHerHis] parents [adoptive_parent.GetFirstName] and [adoptive_parent_2.GetFirstName]"
+ ao_adopted_by_parent_desc_1:1 "I was adopted by my [adoptive_parent.GetMotherFather] [adoptive_parent.GetFirstName]"
+ ao_adopted_by_parent_desc_second_perspective_1:1 "you were adopted by your [adoptive_parent.GetMotherFather] [adoptive_parent.GetFirstName]"
+ ao_adopted_by_parent_desc_third_perspective_1:1 "[owner.GetName] was adopted by [owner.GetHerHis] [adoptive_parent.GetMotherFather] [adoptive_parent.GetFirstName]"
