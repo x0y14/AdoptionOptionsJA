@@ -32,7 +32,7 @@
 #  ao_adoption_events.0001.e:0 "On second thought, let's have a servant deliver the donation"
  ao_adoption_events.0001.t:0 "$ao_adoption_events_header$ 配偶者のジレンマ"
  ao_adoption_events.0001.desc_openning_boys_only:0 "いよいよ少年院に向かう時が来たが、"
- ao_adoption_events.0001.desc_openning_girls_only:0 "いよいよ女子孤児院に向かう時が来たが、"
+ ao_adoption_events.0001.desc_openning_girls_only:0 "いよいよ女子少年院に向かう時が来たが、"
  ao_adoption_events.0001.desc_openning_boys_and_girls:0 "いよいよ孤児院に向かう時が来たが、"
  ao_adoption_events.0001.desc_husbands:0 "but you still have not announced which husband you are bringing. "
  ao_adoption_events.0001.desc_wives:0 "but you still have not announced which wife you are bringing. "
