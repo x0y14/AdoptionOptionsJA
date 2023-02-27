@@ -49,11 +49,11 @@
  ao_girls_only_capital_orphanage_tooltip:0 "$ao_adoption_decision_tt$"
 
  ao_boys_only_realm_visit_orphanage_option:0 "領内の少年院を訪問\n#weak 任意の[faith|E]、[culture|E]の男の子のみ#"
- ao_boys_only_realm_visit_orphanage_desc:0 "領内の少年院を訪問"
+ ao_boys_only_realm_visit_orphanage_desc:0 "領内のどこかの少年院を訪問"
  ao_boys_only_realm_orphanage_tooltip:0 "$ao_adoption_decision_tt$"
 
  ao_both_realm_visit_orphanage_option:0 "領内の孤児院を訪問\n#weak 任意の[faith|E]、[culture|E]の子供のみ#"
- ao_both_realm_visit_orphanage_desc:0 "領内のどこかの恋人を訪問"
+ ao_both_realm_visit_orphanage_desc:0 "領内のどこかの孤児院を訪問"
  ao_both_realm_orphanage_tooltip:0 "$ao_adoption_decision_tt$"
 
  ao_girls_only_realm_visit_orphanage_option:0 "領内の女子孤児院を訪問\n#weak 任意の[faith|E]、[culture|E]の女の子のみ#"
